@@ -1,0 +1,13 @@
+{
+  "name": "webpack-axe-core-example",
+  "version": "1.0.0",
+  "description": "Example of using axe-core with webpack",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axe-core": "^2.0.5"
+  }
+}
