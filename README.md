@@ -1,3 +1,11 @@
+# Setup
+
+```
+npm install -g webpack
+npm install
+```
+
+
 # Build
 
 `webpack ./entry.js bundle.js`
